@@ -1,4 +1,4 @@
-# Script of getting mixes off of Mixcloud
+# Script for getting mixes off of Mixcloud
 import os.path
 import time
 import subprocess
