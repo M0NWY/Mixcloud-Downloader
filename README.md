@@ -21,3 +21,5 @@ It will complain violently / die if there are files in the /seg dir.
 Requires ffmpeg, wget, and lynx ! ( I know, I know, I'll write lynx out of it later )
 
 Also needs python module: requests which I can't remember if it's standard.
+
+Oh and it's best to run it a couple of days before you want the tunes. It is slow. 
