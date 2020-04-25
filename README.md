@@ -1,6 +1,11 @@
 # Mixcloud-Downloader
 A python script for downloading the latest mixcloud mixes
 
+Setup : mkdir downloads
+        mkdir downloads/segs
+
+Usage : python3 jointer2.py
+
 The main script is calld jointer2 as it goes and gets the many fragments nessasary to rebuild the original m4a file.
 
 Written in order to get a load of mixes to stick on a stick to stick in my van.
