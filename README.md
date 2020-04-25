@@ -1,8 +1,11 @@
 # Mixcloud-Downloader
 A python script for downloading the latest mixcloud mixes
 
-Setup : mkdir downloads
-        mkdir downloads/segs
+Setup : 
+
+mkdir downloads
+        
+mkdir downloads/segs
 
 Usage : python3 jointer2.py
 
