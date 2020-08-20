@@ -1,4 +1,8 @@
 # Mixcloud-Downloader
+
+Now no-longer works - I'll be making a better one later with full selenium and youtube-dl
+You can probably get what you want done with just YouTube-dl
+
 A python script for downloading the latest mixcloud mixes
 
 Setup : 
